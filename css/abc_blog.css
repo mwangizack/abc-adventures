@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+}
+.titlebg{
+    margin: 0;
+    padding: 10px;
+    background-color: orange;   
+}
+.titlebg h2{
+    color: white;
+    font-family: Roboto;
+}
+.toright{
+    float: right;
+    margin: 10px;
+}
+.flexbox{
+    display: flex;
+    width: 100%;
+}
+.margin{
+    margin: 10px;
+}
+.font h3{
+    font-family: Roboto;    
+}
+.font p{
+    font-family: Century Gothic;
+}
+.titletext h2{
+    font-family: Roboto;
+}

@@ -1,0 +1,129 @@
+.homepagebg{
+    background-image: url("../images/homepage_bg.jpg");
+    height: 649px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+#home{
+    margin: 0;
+}
+body{
+    margin: 0;
+}
+.logo h1{
+    font-family: Qualy;
+    color: orange;
+    font-size: 50px;
+    opacity: 87%;
+    position: absolute;
+    top: -37px;
+    left: 35px;
+}
+.logo h3{
+    font-family: Qualy;
+    font-size: 25px;
+    color: orange;
+    opacity: 87%;
+    position: absolute;
+    top: -14px;
+    left: 75px;
+}
+.logo h4{
+    font-family: Roboto;
+    font-size: 17px;
+    color: dodgerblue;
+    opacity: 87%;
+    position: absolute;
+    top: 13px;
+    left: 75px;
+}
+.menu{
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 10px;
+    right: 20px;
+}
+.menu li{
+    list-style-type: none;
+    float: left;
+}
+.menu a{
+    text-decoration: none;
+    display: block;
+    color: orange;
+    padding: 20px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+.menu a:hover{
+    background-color: rgba(30, 144, 255, 20%);
+    border-radius: 3px;
+}
+.slogan{
+    position: absolute;
+    top: 73%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.text1{
+    font-family: "Roboto";
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+.form{
+    position: absolute;
+    top: 87%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    display: inline-block;
+}
+.searchbox{
+    font-family: "Century Gothic";
+    width: 400px;
+    padding: 10px;
+    margin-right: 0;
+}
+.searchbutton{
+    background-color: orange;
+    color: white;
+    width: 120px;
+    padding: 10px;
+    border: 1.5px solid orange;
+    border-left-color: grey;
+    margin-left: -5%;
+}
+.searchbutton:hover{
+    background-color: dodgerblue;
+}
+.separation{
+    margin-top: 40px;
+}
+.section2txt{
+    font-family: Roboto;
+    color: orange;
+    text-align: center;
+}
+.flexbox{
+    display: flex;
+}
+.space{
+    margin: 20px;
+}
+.offerbuttons {
+    font-weight: bold;
+    background-color: white;
+    border: 1px solid orange;
+    color: dodgerblue;
+    padding: 10px;
+}
+.titlefont{
+    font-family: Roboto;
+}
+.parafont{
+    font-family: "Century Gothic";
+}

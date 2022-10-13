@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+}
+.font h3{
+    font-family: Roboto;
+}
+.font h2{
+    font-family: Roboto;
+}
+.font p{
+    font-family: "Century Gothic";
+}
+.titlebg{
+    background-color: orange;
+    color: white;
+    padding: 10px;
+    margin: 0;
+}
+.toright{
+    float: right;
+    margin: 10px;
+}
+.center{
+    text-align: center;
+}
+.aboutimg{
+    width: 400px;
+    height: 300px;
+    background-size: cover;
+    background-position: center;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 50px;
+    margin-left: 10px;
+}
+.aboutimg1{
+    width: 400px;
+    height: 300px;
+    background-size: cover;
+    background-position: center;
+    float: right;
+    margin-left: 20px;
+}
+.space{
+    margin-top: 40px;
+    clear: left;
+}
+.paragrapgh{
+    margin-left: 10px;
+}

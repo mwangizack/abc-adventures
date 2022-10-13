@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+}
+.font h3{
+    font-family: Roboto;
+}
+.font h2 {
+    font-family: Roboto;
+}
+.titlebg{
+    background-color: orange;
+    color: white;
+    padding: 10px;
+    margin: 0;
+}
+.toright{
+    float: right;
+    margin: 10px;
+}
+.center{
+    text-align: center;
+}
+.styleform input, select, textarea{
+    width: 100%;
+    padding: 12px 12px;
+    margin: 8px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.form{
+    margin: 10px;
+}
+
+

@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+}
+.font h3{
+    font-family: "Century Gothic";
+}
+.font h2 {
+    font-family: Roboto;
+}
+.titlebg{
+    background-color: orange;
+    color: white;
+    padding: 10px;
+    margin: 0;
+}
+.toright{
+    float: right;
+    margin: 10px;
+}
+.center {
+    text-align: center;
+}
+.flexbox{
+    display: flex;
+}
+.flexbox2{
+    clear: both;
+    display: flex;
+}
+.margin{
+    margin: 10px;
+}
